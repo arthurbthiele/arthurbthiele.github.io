@@ -12,12 +12,12 @@ export function Content({ style }: Props): React.ReactElement {
     <Grid style={style}>
       {[
         {
-          url: "https://arthurbthiele.github.io/word-journey/",
-          image: wordJourney,
+          url: "https://arthurbthiele.github.io/health-analytics",
+          image: healthAnalytics,
         },
         {
-          url: "https://arthurbthiele.github.io/health-analytics/",
-          image: healthAnalytics,
+          url: "https://arthurbthiele.github.io/word-journey////",
+          image: wordJourney,
         },
       ].map(({ url, image }) => (
         <LinkPreview
