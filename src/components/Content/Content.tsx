@@ -16,7 +16,7 @@ export function Content({ style }: Props): React.ReactElement {
           image: healthAnalytics,
         },
         {
-          url: "https://arthurbthiele.github.io/word-journey////",
+          url: "https://arthurbthiele.github.io/word-journey ",
           image: wordJourney,
         },
       ].map(({ url, image }) => (
